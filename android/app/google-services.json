@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "636508251528",
+    "project_id": "queuex-419e4",
+    "storage_bucket": "queuex-419e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636508251528:android:ffb21c7987ed614566063d",
+        "android_client_info": {
+          "package_name": "com.justin.queuex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636508251528-99lemt4o6c0t1l37pe9383b93jdqd6vm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2ZW7ZYoF7YhqrhBTwoju-WCv_ChVXIFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636508251528-99lemt4o6c0t1l37pe9383b93jdqd6vm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
